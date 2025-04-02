@@ -1,1 +1,2 @@
-import {openProductPage} from "./main.js";
+import { openProductPage } from "./main.js";
+
