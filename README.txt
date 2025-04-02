@@ -1,1 +1,1 @@
-1) Man s
+1) Yangi navbar qildim
